@@ -48,7 +48,7 @@ function App() {
       };
     }
 
-    return { timeLeft, nextEventLabel }; // We need the timeleft to display it as long as the label of the event
+    return { timeLeft, nextEventLabel }; // We need the timeleft to display it along with the label of the event
   };
 
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
