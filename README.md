@@ -9,8 +9,7 @@ Welcome to Event Countdown, a fun and interactive project that showcases a count
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
