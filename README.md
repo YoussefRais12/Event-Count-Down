@@ -39,10 +39,6 @@ After completing the installation steps, you can run the Event Countdown app usi
 npm start
 This will start the Metro Bundler and provide you with options to run the app on an emulator or physical device. Choose your preferred option and see the countdown in action!
 
-Contributing
-Contributions are welcome! If you have any ideas, suggestions, or improvements for the project, please feel free to open an issue or submit a pull request. Let's make the countdown even more exciting together!
 
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 Made with ❤️ by Youssef RAIES
